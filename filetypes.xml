@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="1" type="Image" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <removed_mapping ext="toml" approved="true" type="TOML file" />
     </extensionMap>
   </component>
 </application>
