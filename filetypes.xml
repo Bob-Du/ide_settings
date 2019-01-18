@@ -7,6 +7,7 @@
       <mapping ext="py36gpu-cuda91" type="Dockerfile" />
       <mapping pattern="1" type="Image" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="paw" type="PLAIN_TEXT" />
       <removed_mapping ext="toml" approved="true" type="TOML file" />
       <removed_mapping ext="toml" approved="true" type="TOML file" />
     </extensionMap>
