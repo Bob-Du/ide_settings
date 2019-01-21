@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="bundle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_browser.sentry-cdn.com_4.5.2_bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_browser.sentry-cdn.com_4.5.2_bundle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="polyfill" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_6.26.0_polyfill.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_6.26.0_polyfill.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
