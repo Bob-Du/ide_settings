@@ -5,6 +5,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="1" type="Image" />
+      <mapping pattern="tinymind" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <removed_mapping ext="py36gpu-cuda10" approved="true" type="Dockerfile" />
