@@ -8,6 +8,7 @@
       <mapping pattern="tinymind" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="py36gpu-cuda10" approved="true" type="Dockerfile" />
       <removed_mapping ext="py36cpu" approved="true" type="Dockerfile" />
       <removed_mapping ext="py36gpu-cuda91" approved="true" type="Dockerfile" />
