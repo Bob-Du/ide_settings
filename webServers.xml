@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0eeb5329-e275-4e26-9235-b10e2c75b0c8" name="hadoop@192.168.6.107:33033" url="http:///">
+        <fileTransfer host="192.168.6.107" port="33033" accessType="SFTP" authAgent="true">
+          <option name="port" value="33033" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8ce589cd-c0d1-4cdf-ae63-0541554d0a6c" name="hadoop@192.168.6.107:33033" url="http:///">
+        <fileTransfer host="192.168.6.107" port="33033" accessType="SFTP" authAgent="true">
+          <option name="port" value="33033" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
