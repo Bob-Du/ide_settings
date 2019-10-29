@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="1" type="Image" />
+      <mapping pattern="unrar" type="PLAIN_TEXT" />
       <mapping pattern="tinymind" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="crontab" type="PLAIN_TEXT" />
