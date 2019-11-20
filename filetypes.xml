@@ -8,6 +8,7 @@
       <mapping pattern="1" type="Image" />
       <mapping pattern="unrar" type="PLAIN_TEXT" />
       <mapping pattern="tinymind" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="crontab" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
